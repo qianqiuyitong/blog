@@ -5,29 +5,29 @@
         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     
     <url>
-        <loc>/2015-12-28/cplus/</loc>
-        <lastmod>2015-12-28T13:34:01+08:00</lastmod>
+        <loc>blog/2015-12-28/cplus/</loc>
+        <lastmod>2015-12-28T13:44:55+08:00</lastmod>
         <changefreq>weekly</changefreq>
     </url>
     
     
     <url>
-        <loc>/archive/</loc>
-        <lastmod>2015-12-28T13:34:01+08:00</lastmod>
+        <loc>blog/archive/</loc>
+        <lastmod>2015-12-28T13:44:55+08:00</lastmod>
         <changefreq>weekly</changefreq>
     </url>
     
     
     <url>
-        <loc>/category/</loc>
-        <lastmod>2015-12-28T13:34:01+08:00</lastmod>
+        <loc>blog/category/</loc>
+        <lastmod>2015-12-28T13:44:55+08:00</lastmod>
         <changefreq>weekly</changefreq>
     </url>
     
     
     <url>
-        <loc>/tags/</loc>
-        <lastmod>2015-12-28T13:34:01+08:00</lastmod>
+        <loc>blog/tags/</loc>
+        <lastmod>2015-12-28T13:44:55+08:00</lastmod>
         <changefreq>weekly</changefreq>
     </url>
     
